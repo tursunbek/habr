@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './components/header/header';
-import PostCard from "./components/header/postCard";
+import PostCard from "./components/postCard/postCard";
 
 class App extends React.Component {
 
